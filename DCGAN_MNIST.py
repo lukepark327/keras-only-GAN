@@ -105,7 +105,7 @@ def train_models(models, x_train, **kwargs):
 
 
 if __name__ == "__main__":
-    model_name = 'gan_mnist'
+    model_name = 'dcgan_mnist'
     img_shape = (img_row, img_col, img_dim) = (28, 28, 1)
     z_shape = (z_size, ) = (100, )
     lr = 2e-4
