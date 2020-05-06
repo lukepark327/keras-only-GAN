@@ -1,2 +1,6 @@
 # keras-GAN
-implementing GANs with keras
+Implementing GANs with keras
+
+# GAN_MNIST
+Generating MNIST images using DCGAN.
+<!-- Example -->
