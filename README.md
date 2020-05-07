@@ -1,6 +1,12 @@
 # keras-GAN
-Implementing GANs with keras
+Implementing GANs using only keras.
 
 # DCGAN_MNIST
-Generating MNIST images using DCGAN.
-<!-- Example -->
+Generating MNIST images based on DCGAN.
+
+![dcgan](./images/dcgan.gif)
+
+```bash
+...
+10000: [discriminator loss: 0.577775, acc: 0.648438] [adversarial loss: 1.216242, acc: 0.234375]
+```

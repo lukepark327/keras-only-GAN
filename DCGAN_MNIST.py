@@ -90,8 +90,8 @@ def train_models(models, x_train, **kwargs):
         y = np.ones([batch_size, 1])
         loss, acc = adversarial.train_on_batch(x, y)
         log = "%s [adversarial loss: %f, acc: %f]" % (log, loss, acc)
-        # print(log)
-        print(log, end='\r')
+        print(log)
+        # print(log, end='\r')
 
         # img_save
         if (i + 1) % img_save_interval == 0:
