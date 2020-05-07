@@ -1,4 +1,4 @@
-# keras-GAN
+# keras-only-GAN
 Implementing GANs using only keras.
 
 # DCGAN_MNIST
