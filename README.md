@@ -1,5 +1,5 @@
 # keras-only-GAN
-Implementing GANs using only keras.
+Implementing GANs using keras only.
 
 # DCGAN_MNIST
 Generating MNIST images based on DCGAN.
