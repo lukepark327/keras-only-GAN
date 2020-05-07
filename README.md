@@ -1,7 +1,12 @@
 # keras-only-GAN
 Implementing GANs using keras only.
 
-# DCGAN_MNIST
+# Contents
+TBA
+
+# Basic
+
+### DCGAN_MNIST
 Generating MNIST images based on DCGAN.
 
 ![dcgan](./images/dcgan.gif)
